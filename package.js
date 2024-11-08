@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'ostrio:files',
-  version: '3.0.0-beta.6',
+  name: 'hluz:files',
+  version: '3.0.0-beta.7-a',
   summary: 'Upload files to a server or 3rd party storage: AWS:S3, GridFS, DropBox, and other',
-  git: 'https://github.com/veliovgroup/Meteor-Files',
+  git: 'https://github.com/hluz/Meteor-Files',
   documentation: 'README.md'
 });
 
